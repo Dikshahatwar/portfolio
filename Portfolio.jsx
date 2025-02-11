@@ -1,6 +1,6 @@
 import React from "react";
 
-import image from "../images/design-deskg.jpe";
+import image from "desk.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
