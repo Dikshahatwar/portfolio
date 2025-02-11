@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import arrowSvg from "../image/down-arrow.svg"; 
 
-import image from "../images/woman-with-tablet.jpg";
+import image from "programmer girl.jpg";
 
 const imageAltText = "Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen";
 
