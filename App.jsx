@@ -1,27 +1,25 @@
 import React from "react";
 
-import About from "./Components/About";
-import Footer from "./Components/Footer";
-import Header from "./Components/Header";
-import Home from "./Components/Home";
-import Portfolio from "./Components/Portfolio";
+import About from "./portfolio/About";
+import Footer from "./portfolio/Footer";
+import Header from "./portfolio/Header";
+import Home from "./portfolio/Home";
+import Portfolio from "./portfolio";
 
 import "./styles.css";
 const siteProps = {
-    name: "Alexandrie Grenier",
-    title: "Web Designer & Content Creator",
-    email: "alex@example.com",
-    gitHub: "microsoft",
-    instagram: "microsoft",
-    linkedIn: "satyanadella",
-    medium: "",
-    twitter: "microsoft",
-    youTube: "Code",
+    name: "Diksha Hatwar",
+    title: "Front-end Developer",
+    email: "dikshahatwar16@gmail.com",
+    gitHub: "Dikshahatwar",
+    
+    linkedIn: "Diksha Hatwar",
+
   };
   
   const primaryColor = "#4E567E";
   const secondaryColor = "#D2F1E4";
-  
+ 
   const App = () => {
     return (
       <div id="main">
